@@ -9,10 +9,10 @@ My program helps calculate distance.
 3. Enter the required values.
 
 ## Input Needed
-coordinates for both points
+Coord
   
 ## Sample Output
-enter x1
+5.385164807134504
 
 ## Author
 Name: Yuan Alyanna Yasay Bocol
