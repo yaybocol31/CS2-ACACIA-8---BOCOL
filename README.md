@@ -9,13 +9,13 @@ My program helps calculate distance.
 3. Enter the required values.
 
 ## Input Needed
-x1 = int(input ("what is the value of x1?")) # x1 is the first number from the coordinates of point A.
+x1 = # x1 is the first number from the coordinates of point A.
 
-x2 = int(input ("what is the value of x2?")) # x2 is the first number from the coordinates of point B.
+x2 = # x2 is the first number from the coordinates of point B.
 
-y1 = int(input ("what is the value of y1?")) # y1 is the second number from the coordinates of point A.
+y1 = # y1 is the second number from the coordinates of point A.
 
-y2 = int(input ("what is the value of y2?")) # y2 is the second number from the coordinates of point B.
+y2 = # y2 is the second number from the coordinates of point B.
 
   
 ## Sample Output
