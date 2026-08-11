@@ -1,8 +1,13 @@
 import math
-x1 = int(input ("what is the value of x1?"))
-x2 = int(input ("what is the value of x2?"))
-y1 = int(input ("what is the value of y1?"))
-y2 = int(input ("what is the value of y2?"))
+
+x1 = int(input ("what is the value of x1?")) # x1 is the first number from the coordinates of point A.
+
+x2 = int(input ("what is the value of x2?")) # x2 is the first number from the coordinates of point B.
+
+y1 = int(input ("what is the value of y1?")) # y1 is the second number from the coordinates of point A.
+
+y2 = int(input ("what is the value of y2?")) # y2 is the second number from the coordinates of point B.
+
 d = math.sqrt((math.pow((x2-x1),2))+(math.pow((y2-y1),2)))
 print(d)
 
