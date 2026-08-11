@@ -9,10 +9,10 @@ My program helps calculate distance.
 3. Enter the required values.
 
 ## Input Needed
-- x1, x2, y1, y2
+coordinates for both points
   
 ## Sample Output
-Show an example of the program's output.
+enter x1
 
 ## Author
 Name: Yuan Alyanna Yasay Bocol
