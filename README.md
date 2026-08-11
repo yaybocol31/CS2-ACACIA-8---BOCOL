@@ -15,7 +15,8 @@ x2 = int(input ("what is the value of x2?")) # x2 is the first number from the c
 
 y1 = int(input ("what is the value of y1?")) # y1 is the second number from the coordinates of point A.
 
-y2 = int(input ("what
+y2 = int(input ("what is the value of y2?")) # y2 is the second number from the coordinates of point B.
+
   
 ## Sample Output
 5.385164807134504
